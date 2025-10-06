@@ -1,7 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQEWWMcW7UkHTA/profile-displaybackgroundimage-shrink_350_1400/B56Zk9BpjwKUAc-/0/1757665469067?e=1762387200&v=beta&t=RxO4UmBtHFbR15nwPMdzjhZecdcBSMn3OCFgZRo--LI)
 
-### Hi there 👋,  I’m Tamanna Akter Moni
-#### Web Developer
+## Hi there 👋,  I’m Tamanna Akter Moni
+### Web Developer
 
 Hi! I’m Tamanna Akter Moni, a passionate Frontend Developer who loves building clean, modern, and user-friendly web interfaces. I enjoy turning creative ideas into responsive websites using HTML, CSS, JavaScript, React, and Tailwind CSS.
 
@@ -9,7 +9,8 @@ Currently, I’m focusing on improving my frontend skills while exploring new de
 
 When I’m not coding, I love reading, learning new things, and finding inspiration through design and creativity.
 
-Skills: / REACT / JS / HTML / CSS
+🛠️ Skills
+<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> </p>
 
 - 🔭 I’m currently working on Portfolio website 
 - 🌱 I’m currently learning Next.js & advanced React 
@@ -19,5 +20,12 @@ Skills: / REACT / JS / HTML / CSS
 - 📫 How to reach me: tamannaaktermoni51@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Tamanna5092)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tamanna51//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tamannaaktermoni51)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/tamannaaktermoni51?igsh=cmtzaWFvbHBlcGVo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/tamanna_51?s=09)  
+<p align="center">
+  [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40"/>](https://github.com/Tamanna5092)
+  [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40"/>](https://www.linkedin.com/in/tamanna51/)
+  [<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="40"/>](https://www.facebook.com/tamannaaktermoni51)
+  [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="40"/>](https://www.instagram.com/tamannaaktermoni51/)
+  [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40"/>](https://x.com/tamanna_51?s=09)
+</p>
+
 
